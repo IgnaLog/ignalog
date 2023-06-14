@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **ignacio.gracia@gmail.com**
+- 📫 How to reach me **ignacio.coding@gmail.com**
 
 <br/>
 
